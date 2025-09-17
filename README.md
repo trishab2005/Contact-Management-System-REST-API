@@ -33,9 +33,6 @@ You need the following software installed:
     * The backend server will start on port `9999`.
     * The H2 database console can be accessed at `http://localhost:9999/h2db`.
 
-**Backend running locally**
-![Backend running locally](https://via.placeholder.com/800x450.png?text=Image+of+the+Spring+Boot+application+running)
-
 ### Frontend Setup (React)
 
 1.  Navigate to the `contact-frontend` directory.
@@ -49,8 +46,6 @@ You need the following software installed:
     ```
     * The front end will open automatically in your browser on port `3000`. It is configured to proxy API requests to the backend server.
 
-**Frontend running locally**
-![Frontend running locally](https://via.placeholder.com/800x450.png?text=Image+of+the+Contact+Management+System+UI+on+the+home+screen)
 
 ## 📸 Screenshots
 
